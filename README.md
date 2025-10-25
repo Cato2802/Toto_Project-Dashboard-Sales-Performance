@@ -4,6 +4,7 @@
 <img width="1126" height="633" alt="image" src="https://github.com/user-attachments/assets/9c2cd2ba-0526-423e-90b6-166f7f7acc56" />
 
 <img width="1127" height="637" alt="image" src="https://github.com/user-attachments/assets/6b670f82-fe03-4572-888c-455d3bc011ff" />
+
 Overview:
 This dashboard was designed as part of a data visualization competition focusing on Sales Performance Analysis for a retail company. It provides a comprehensive view of sales trends, product performance, and regional profitability, enabling management to make data-driven decisions.
 
